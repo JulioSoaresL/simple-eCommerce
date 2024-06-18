@@ -15,24 +15,22 @@ O foco é o uso do _Blade_ para construir o frontend sem o uso de frameworks.
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="image.png" alt="Initial page" style="max-width: 100%;">
-    <p>Initial page</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="image-1.png" alt="Product description" style="max-width: 100%;">
-    <p>Product description</p>
-  </div>
+### Desktop
+<div align="center">
+  <a href="https://github.com/JosManoel">
+    <img src="image.png" width="412px"/> 
+  </a>
+  <a href="https://github.com/JosManoel">
+    <img src="image-1.png" width="412px"/>
+  </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="image-2.png" alt="Mobile initial page" style="max-width: 100%;">
-    <p>Mobile initial page</p>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="image-3.png" alt="Mobile product description" style="max-width: 100%;">
-    <p>Mobile product description</p>
-  </div>
+### Mobile
+<div align="center">
+  <a href="https://github.com/JosManoel">
+    <img src="image-2.png" width="412px"/> 
+  </a>
+  <a href="https://github.com/JosManoel">
+    <img src="image-3.png" width="412px"/>
+  </a>
 </div>
